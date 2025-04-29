@@ -1,11 +1,26 @@
-# Sample Snack app
+# 🚗 AmigoCar
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+AmigoCar é um aplicativo de mobilidade urbana inspirado em grandes plataformas como **Uber**, **99** e outros aplicativos de transporte. Ele conecta passagens e motoristas de forma eficiente, segura e prática, com recursos modernos como chat integrado, autenticação, mapas com GPS em tempo real e muito mais.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 🌐 Funcionalidades
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+### 📍 Geolocalização e Mapas
+AmigoCar integra uma **API de mapas com GPS** em tempo real. Os usuários podem:
+- Visualizar sua localização atual.
+- Escolher um ponto de parte e destino.
+- Acompanhar o trajeto da corrida ao vivo.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### 💬 Chat em tempo real
+O aplicativo conta com um **chat direto entre corredor e motorista**, promovendo uma comunicação ágil antes e durante uma corrida.
+
+### 🔐 Autenticação e Segurança
+O sistema de login garantia segurança para motoristas e passageiros:
+- **Login com usuário e senha**
+- **Cadastro de novos usuários**
+- **Recuperação de senha** por e-mail
+
+---
+
+
